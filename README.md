@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Krish Aryan
 
-### 💻 Software Developer in the Making | 🤖 AI/ML Enthusiast
+### 💻 Software Developer | 🤖 AI/ML Enthusiast
 
-Building things. Breaking things. Learning how to build them better.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Java+Developer+in+the+Making;AI%2FML+Enthusiast;Building+Projects;Always+Learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -12,31 +12,52 @@ Building things. Breaking things. Learning how to build them better.
 
 ## 🧑‍💻 About Me
 
-- 🎓 Student passionate about **Software Development & Artificial Intelligence**
-- ☕ Currently sharpening my **Java** skills
-- 🐍 Exploring **Python & Machine Learning**
-- 🚀 Interested in building practical and intelligent applications
-- 🧠 Always learning something new
+🎓 Student passionate about **Software Development & Artificial Intelligence**
+
+☕ Currently learning and building with **Java**
+
+🐍 Exploring **Python & Machine Learning**
+
+🚀 Interested in building practical and intelligent applications
+
+🧠 Always learning. Always building.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,mysql" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-```text
-Java                 █████████░░  Learning & Building
-Python               ████████░░░  Learning
-AI / Machine Learning ██████░░░░░  Exploring
-Git & GitHub         ████████░░░  Building Projects
+| Project | Description |
+|--------|-------------|
+| 🤖 **IntelliAssist** | Personal Assistant System |
+| ☕ **Java Projects** | Core Java programs & problem solving |
+| 🤖 **AI/ML Projects** | Machine Learning experiments & applications |
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build real-world projects
+- ☕ Master Java
+- 🤖 Learn & apply Machine Learning
+- 💻 Improve problem-solving skills
+- 🌐 Build a strong developer portfolio
+
+---
+
+<div align="center">
+
+### 💡 Code. Learn. Build. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>
