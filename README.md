@@ -57,7 +57,17 @@
 <div align="center">
 
 ### 💡 Code. Learn. Build. Repeat.
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KrishAryan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishAryan&theme=tokyonight&hide_border=true" />
+
+</div>
 ⭐ Thanks for visiting my profile!
 
 </div>
