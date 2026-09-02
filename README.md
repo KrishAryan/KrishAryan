@@ -68,6 +68,18 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishAryan&theme=tokyonight&hide_border=true" />
 
 </div>
-⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krish-aryan-4b6128431/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/KrishAryan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>⭐ Thanks for visiting my profile!
 
 </div>
