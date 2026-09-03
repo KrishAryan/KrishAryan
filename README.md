@@ -56,11 +56,12 @@ AI-powered hostel complaint management system with Gemini-based FixBot.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrishAryan&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KrishAryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishAryan&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ---
 
