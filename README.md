@@ -39,7 +39,9 @@
 
 ### 🏨 [Fix My Hostel](https://github.com/KrishAryan/Fix-My-Hostel)
 
-> AI-powered hostel complaint management system with a Gemini-based FixBot.
+AI-powered hostel complaint management system with Gemini-based FixBot.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Gemini AI
 
 **✨ Features**
 - 🤖 AI-powered FixBot
