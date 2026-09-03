@@ -35,14 +35,11 @@
 </div>
 
 ---
-
 ## 🚀 Featured Project
 
 | Project | Description |
 |---|---|
-| 🏨 **Fix My Hostel** | AI-powered hostel complaint management system with Gemini-based FixBot, role-based authentication, complaint tracking, priority management, and admin dashboard |
-
----
+| 🏨 [**Fix My Hostel**](https://github.com/KrishAryan/Fix-My-Hostel) | AI-powered hostel complaint management system with Gemini-based FixBot, role-based authentication, complaint tracking, priority management, and admin dashboard |
 
 ## 🎯 Current Goals
 
