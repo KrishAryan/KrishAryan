@@ -34,6 +34,7 @@
 
 </div>
 ---
+
 ## 🧠 Skills & Interests
 
 - 💻 **Programming:** Java, Python
