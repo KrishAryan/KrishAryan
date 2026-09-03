@@ -37,18 +37,16 @@
 ---
 ## 🚀 Featured Project
 
-| Project | Description |
-|---|---|
-| 🏨 [**Fix My Hostel**](https://github.com/KrishAryan/Fix-My-Hostel) | AI-powered hostel complaint management system with Gemini-based FixBot, role-based authentication, complaint tracking, priority management, and admin dashboard |
+### 🏨 [Fix My Hostel](https://github.com/KrishAryan/Fix-My-Hostel)
 
-## 🎯 Current Goals
+> AI-powered hostel complaint management system with a Gemini-based FixBot.
 
-- 🚀 Build real-world projects
-- 🤖 Learn & apply Artificial Intelligence and Machine Learning
-- 💻 Strengthen programming fundamentals
-- 🧠 Improve problem-solving skills
-- 🌐 Build a strong developer portfolio
-
+**✨ Features**
+- 🤖 AI-powered FixBot
+- 🔐 Role-based authentication
+- 📝 Complaint tracking
+- 🚨 Priority management
+- 📊 Admin dashboard
 ---
 
 <div align="center">
