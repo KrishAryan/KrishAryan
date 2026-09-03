@@ -30,10 +30,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,html,git,github,vscode" />
 
 </div>
 ---
+## 🧠 Skills & Interests
+
+- 💻 **Programming:** Java, Python
+- 🌐 **Web Development:** HTML, Basic Web Technologies
+- 🤖 **AI/ML:** Artificial Intelligence & Machine Learning
+- 🛠️ **Tools:** Git, GitHub, VS Code
 ## 🚀 Featured Project
 
 ### 🏨 [Fix My Hostel](https://github.com/KrishAryan/Fix-My-Hostel)
