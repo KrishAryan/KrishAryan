@@ -34,13 +34,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-| Project | Description |
-|--------|-------------|
-| 🤖 **IntelliAssist** | Personal Assistant System |
-| ☕ **Java Projects** | Core Java programs & problem solving |
-| 🤖 **AI/ML Projects** | Machine Learning experiments & applications |
+| Project              | Description                                                                                                                                                     |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏨 **Fix My Hostel** | AI-powered hostel complaint management system with Gemini-based FixBot, role-based authentication, complaint tracking, priority management, and admin dashboard |
+
 
 ---
 
