@@ -33,7 +33,6 @@
 <img src="https://skillicons.dev/icons?i=java,python,html,git,github,vscode,mysql" />
 
 </div>
-
 ---
 ## 🚀 Featured Project
 
