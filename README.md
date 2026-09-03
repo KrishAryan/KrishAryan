@@ -32,8 +32,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,python,html,git,github,vscode" />
 
-</div>
----
+</div> 
 
 ## 🧠 Skills & Interests
 
@@ -41,7 +40,8 @@
 - 🌐 **Web Development:** HTML, Basic Web Technologies
 - 🤖 **AI/ML:** Artificial Intelligence & Machine Learning
 - 🛠️ **Tools:** Git, GitHub, VS Code
-## 🚀 Featured Project
+---
+
 
 ### 🏨 [Fix My Hostel](https://github.com/KrishAryan/Fix-My-Hostel)
 
