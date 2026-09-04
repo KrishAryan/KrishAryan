@@ -40,8 +40,10 @@
 - 🌐 **Web Development:** HTML, Basic Web Technologies
 - 🤖 **AI/ML:** Artificial Intelligence & Machine Learning
 - 🛠️ **Tools:** Git, GitHub, VS Code
+
 ---
 
+## 🚀 Featured Project
 
 ### 🏨 [Fix My Hostel](https://github.com/KrishAryan/Fix-My-Hostel)
 
@@ -55,8 +57,29 @@ AI-powered hostel complaint management system with Gemini-based FixBot.
 - 📝 Complaint tracking
 - 🚨 Priority management
 - 📊 Admin dashboard
+
 ---
 
+## 🏆 Certifications
+
+- 🎓 **Introduction to Cybersecurity 1** — Cisco Networking Academy *(Jan 2024)*
+- 🖥️ **IT Essentials** — Cisco Networking Academy *(May 2024)*
+- 🤖 **AI Fundamentals with IBM SkillsBuild** — Cisco Networking Academy *(Jan 2025)*
+- 🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy *(May 2025)*
+- 🔐 **Introduction to Cybersecurity 2** — Cisco Networking Academy *(May 2025)*
+- 📊 **Introduction to Data Science** — Cisco Networking Academy *(Mar 2026)*
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Build real-world projects
+- 🤖 Learn & apply Artificial Intelligence and Machine Learning
+- 💻 Strengthen programming fundamentals
+- 🧠 Improve problem-solving skills
+- 🌐 Build a strong developer portfolio
+
+---
 <div align="center">
 
 ### 💡 Code. Learn. Build. Repeat.
