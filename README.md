@@ -80,6 +80,27 @@ AI-powered hostel complaint management system with Gemini-based FixBot.
 - 🌐 Build a strong developer portfolio
 
 ---
+
+---
+
+## 🧠 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Krish_Aryan01/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Krish_Aryan01?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="Krish Aryan's LeetCode Stats" />
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Krish_Aryan01/">
+  <img src="https://img.shields.io/badge/LeetCode-Krish_Aryan01-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 Code. Learn. Build. Repeat.
@@ -91,7 +112,6 @@ AI-powered hostel complaint management system with Gemini-based FixBot.
 <img src="https://github-readme-stats.vercel.app/api?username=KrishAryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
-
 
 ---
 
